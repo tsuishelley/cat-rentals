@@ -11,7 +11,7 @@
 }
 .navigation li {
     display:inline;
-    padding-right: 2rem;
+    padding-right: 1rem;
     font-weight: 600;
 }
 header {
@@ -84,7 +84,7 @@ footer a {
 #quote-text {
     color:#2C9AB7;
     font-size: 22px;
-    font-weight:300px;
+    font-weight:300;
     line-height: 130%;
     margin-top: 50px;
     margin-bottom:50px;
