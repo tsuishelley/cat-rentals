@@ -23,6 +23,17 @@ header {
     padding-bottom: 1rem;
     margin:0px;
 }
+
+.hidden {
+    position: relative;
+    left:-10000px;
+    top:auto;
+}
+
+.hidden:focus {
+    left:0;
+}
+
 aside {
     margin-top:3rem;
     float: right;
